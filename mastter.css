@@ -1,0 +1,46 @@
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6;
+  background-color: rgb(246, 247, 253);
+}
+
+p {
+    text-align: justify;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.header {
+  border-bottom: 0.05em solid rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  margin-left: 15vw;
+  margin-right: 15vw;
+ 
+}
+
+.mainDiv {
+  width: fit-content;
+  margin-left: 15vw;
+  display: flex;
+  background-color: rgb(246, 247, 253);
+  margin-right: 15vw;
+  padding: 2%;
+}
+
+.leftMainDiv {
+  width: fit-content;
+  margin-top: 20px;
+}
+
+.leftDivImg {
+  width: 300px;
+  height: 300px;
+  border-radius: 500px;
+}
+
+.rightMainDiv {
+  margin-left: 3.5%;
+}
